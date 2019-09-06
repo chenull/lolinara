@@ -1,0 +1,39 @@
+# OS
+*.DS_Store
+.ipynb_checkpoints/
+
+# Editors
+*.sw[po]
+.project
+.pydevproject
+*-project
+*-workspace
+.idea/
+.vscode/
+
+# Pythons
+__pycache__
+*.py[co]
+*.db
+Untitle*.ipynb
+*.egg-info
+
+# Caches
+*~
+.cache/
+build/
+dist/
+wheelhouse/
+
+*.log
+
+# Builds
+venv/
+.env
+
+# Tests
+.coverage*
+.tox
+
+# Projects
+.vagrant/
